@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/mapty-workouts/blob/main/images/project-preview.png?raw=true" ></img>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Go%2C_Diego%2C_Go%21_%28logo%29.svg/1200px-Go%2C_Diego%2C_Go%21_%28logo%29.svg.png" ></img>
 
 # Go Diego
 
