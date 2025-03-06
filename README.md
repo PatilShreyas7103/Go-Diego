@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/file/d/1JojI3XXVsLufhgFZOR-IG5xSdGD5S5NP/view?usp=drive_link" ></img>
 
 # Go Diego
 
