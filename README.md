@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Go%2C_Diego%2C_Go%21_%28logo%29.svg/1200px-Go%2C_Diego%2C_Go%21_%28logo%29.svg.png" ></img>
+<img src="https://drive.google.com/file/d/1JojI3XXVsLufhgFZOR-IG5xSdGD5S5NP/view?usp=drive_link" ></img>
 
 # Go Diego
 
